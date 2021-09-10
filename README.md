@@ -39,4 +39,4 @@ go run . --issuerBaseURL=https://<TENANT>.crossid.io/api/v1/oauth2/authorization
 
 Browser should be opened automatically.
 
-New to Crossid? check out the [get started](https://developer.crossid.io/docs/guides/get-started]) guide
+New to Crossid? check out the [get started](https://developer.crossid.io/docs/guides/get-started) guide
