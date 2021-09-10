@@ -4,7 +4,7 @@ This repo demonstrates how to integrate Golang with Crossid.
 
 ### Prerequisites
 
-1. [Tell Crossid about your app.](http://localhost:3000/docs/guides/get-started/add-app)
+1. [Tell Crossid about your app.](https://developer.crossid.io/docs/guides/get-started/add-app)
 1. Setup HTTPS (see below)
 
 App params example:
